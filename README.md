@@ -1,7 +1,6 @@
 # Filmes API
 
-API para gerenciar filmes com autenticação de usuários.  
-Construída com **Node.js**, **Express**, **Sequelize** e **MySQL**.
+API para gerenciar filmes com autenticação de usuários.
 
 ## Tecnologias utilizadas
 
