@@ -23,8 +23,6 @@ API para gerenciar filmes com autenticação de usuários.
   - Deletar filme.
 - Proteção das rotas de filmes via JWT.
 
-## Variáveis de ambiente
-
 ## Como executar?
 
 Clone o repositório:
